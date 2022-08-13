@@ -1,0 +1,2 @@
+# Generic Segtree
+ 
